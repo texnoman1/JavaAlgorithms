@@ -1,3 +1,4 @@
+package HW2;
 public class HeapSort {
 
   /**
@@ -5,7 +6,7 @@ public class HeapSort {
    * @param args
    */
   public static void main(String[] args) {
-    int[] arr = {1234, 4, 7, 2, 1, -3, 0, 567, 45, 90, 34,2, 234};
+    int[] arr = {-123, 1134, 1,7,99,23690, 11, 790, -16, - 568, -11, 46, 56789, 45, 23, 990, -76};
 
     heapSort(arr);
 
